@@ -1,12 +1,10 @@
-## Hi there 👋
+## Hi there 👋  I'm Joe! 
 
-## I'm Joe! 
+I'm documenting my journey of becoming a successful indie dev!
 
-## I'm documenting my journey of becoming a successful indie dev!
+Most of my repo's are private, but you can check out some of my projects!
 
-## Most of my repo's are private, but you can check out some of my projects!
-
-## Working on: intelfy.co buildspace404.vercel.app 
+## Working on: intelfy.co 
 
 <!--
 **JoeCowles/JoeCowles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
