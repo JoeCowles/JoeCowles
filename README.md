@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">An SWE student at Texas Tech</h3>
 
-- 🔭 I’m currently working on [Intelfy](intelfy.co)
+- 🔭 I’m currently working on [Intelfy](https://intelfy.co)
 
 <h3 align="left">Contact me</h3>
 <p align="left">
