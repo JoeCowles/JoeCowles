@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 <h3 align="center">A CS student at Texas Tech</h3>
 
-- 🔭 I’m currently working on [Intelfy](https://intelfy.co) [TillyBot.com][https://tillybot.com) and [More!](https://joecowles.com)
+- 🔭 I’m currently working on [Intelfy](https://intelfy.co) [TillyBot.com](https://tillybot.com) and [More!](https://joecowles.com)
 
 <h3 align="left">Contact me</h3>
 <p align="left">
